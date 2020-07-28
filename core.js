@@ -1248,6 +1248,8 @@ PsychoJS.Environment = {
 	LOCAL: Symbol.for('LOCAL')
 };
 
+console.log(PsychoJS.Environment);
+
 /**
  * Manager handling the keyboard and mouse/touch events.
  *
